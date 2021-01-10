@@ -23,7 +23,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
       env:
-        DISCORD_TOKEN: Nzk2MTIwMjYyOTg1OTA4MjU2.X_TSxQ.6GIEhVyX5z0zbg91nvAhLCd1M9w
         MONGO_URI: mongodb+srv://talius:RDmg8uev3nHTfUH9@cluster0.r2axv.mongodb.net/ig?retryWrites=true&w=majority
       uses: actions/setup-node@v1
       with:
