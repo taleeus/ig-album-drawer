@@ -4,7 +4,7 @@
   "description": "A simple random album drawer to organize listenings",
   "main": "src/index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
+    "start": "node src/index.js",
     "test": "mocha --timeout 20000"
   },
   "author": "Talius",
