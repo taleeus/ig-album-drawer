@@ -1,4 +1,4 @@
-![Heroku](https://pyheroku-badge.herokuapp.com/?app=ig-album-drawer)
+[![Heroku](https://heroku-badge.herokuapp.com/?ig-album-drawer)]
 
 # Inutile Gioventù - Album Drawer
 
